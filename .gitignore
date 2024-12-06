@@ -1,0 +1,9 @@
+# Игнорировать директорию виртуальной среды Python (если используется venv или virtualenv)
+venv/
+
+# Игнорировать директорию проекта PyCharm
+.idea/
+
+.env
+users.json
+testII.py
