@@ -7,3 +7,5 @@ venv/
 .env
 users.json
 testII.py
+
+__pycache__/
